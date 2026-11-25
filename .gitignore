@@ -1,0 +1,8 @@
+target/
+uploads/
+test_*mb.bin
+*.exe
+*.pdb
+~$*.docx
+.DS_Store
+Thumbs.db
